@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ganganikk
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning at NIBM
+- 🌱 I’m currently learning Java
 - 
 - 📫 How to reach me Kaveeshagangani01@gmail.com
 
